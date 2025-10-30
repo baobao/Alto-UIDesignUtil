@@ -1,8 +1,9 @@
 {
-  "name": "baobao.alto-editor",
+  "name": "ohbashunsuke.alto-editor",
   "displayName": "Alto-Editor",
   "version": "0.0.1",
   "unity": "6000.1",
-  "author": "Tatsuya Koyama",
+  "author": "Tatsuya Koyama + ohbashunsuke",
+  "license": "MIT"
   "description": "Alto Editorだけを抽出したパッケージ"
 }
