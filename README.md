@@ -44,3 +44,8 @@ https://youtu.be/GimRchE1N68
 ## 作者サイト
 
 - [Alto-tascal](https://tatsuya-koyama.com/)
+
+## LICENSE
+
+- [LICENSE](https://github.com/baobao/Alto-tascal-Unity-Lib/blob/feature/altoeditor/Assets/00_Altotascal/LICENSE)
+
