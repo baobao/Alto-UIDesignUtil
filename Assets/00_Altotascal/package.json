@@ -3,5 +3,6 @@
   "displayName": "Alt-Editor",
   "version": "0.0.1",
   "unity": "6000.1",
-  "description": ""
+  "author": "Tatsuya Koyama",
+  "description": "Alto Editorだけを抽出したパッケージ"
 }
