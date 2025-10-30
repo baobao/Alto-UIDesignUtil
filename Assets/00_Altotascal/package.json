@@ -4,6 +4,6 @@
   "version": "0.0.1",
   "unity": "6000.1",
   "author": "Tatsuya Koyama + ohbashunsuke",
-  "license": "MIT"
+  "license": "MIT",
   "description": "Alto Editorだけを抽出したパッケージ"
 }
