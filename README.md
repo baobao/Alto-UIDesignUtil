@@ -1,13 +1,6 @@
-
 # Alto-tascal-Unity-Lib
 
-## あると助かる Unity ライブラリ
-
-Alto-tascal-Unity-Lib … 通称 `Alto` （アルト）は、
-
-> 無かったら無かったで何とかするけど、まあ、あると… 助かる
-
-といった温度感のコードをまとめた Unity 向けフレームワーク / ユーティリティ / シェーダ集です。
+※本リポジトリは[本家](https://github.com/tatsuya-koyama/Alto-tascal-Unity-Lib)からUI Design Utilのみ切り出したアセットです。
 
 ____
 
@@ -31,14 +24,7 @@ https://youtu.be/GimRchE1N68
 
 - Unity 6000.1.11f1
 
-開発は macOS Sonoma 14.5 で行っています。
-
-
-## 依存パッケージ
-
-- [UniTask](https://github.com/Cysharp/UniTask) 2.4.1
-- Addressables 2.6.0
-- Universal RP 17.1.0
+開発は macOS 15.4.1 で行っています。
 
 
 ## 作者サイト
