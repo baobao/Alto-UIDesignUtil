@@ -7,7 +7,7 @@ namespace AltoEditor
 {
     public class UIDesignUtilWindow : AltoEditorWindow
     {
-        [MenuItem(AltoMenuPath.DevTools + "UI Design Util")]
+        [MenuItem("Tools/Alto/UI Design Util")]
         static void ShowWindow()
         {
             var window = CreateInstance<UIDesignUtilWindow>();
@@ -120,13 +120,17 @@ namespace AltoEditor
 
             BR();
             Header("Distribute : 等間隔に配置", DarkAqua, FontStyle.Normal);
-            if (Button("◀…▶ 水平方向に等間隔", 200f, 30f))
+
+            using (new GUILayout.HorizontalScope())
             {
-                DistributeEvenly(DistributeType.Horizontal, info);
-            }
-            if (Button("▲ ⋮ ▼ 垂直方向に等間隔", 200f, 30f))
-            {
-                DistributeEvenly(DistributeType.Vertical, info);
+                if (Button("◀…▶ 水平方向", 100f, 30f))
+                {
+                    DistributeEvenly(DistributeType.Horizontal, info);
+                }
+                if (Button("▲ ⋮ ▼ 垂直方向", 100f, 30f))
+                {
+                    DistributeEvenly(DistributeType.Vertical, info);
+                }
             }
 
             BR();
