@@ -5,5 +5,5 @@
   "unity": "6000.1",
   "author": "Tatsuya Koyama + ohbashunsuke",
   "license": "MIT",
-  "description": "Alto Editorだけを抽出したパッケージ"
+  "description": "Alto Tascal EditorからUI Design Utilだけを抽出したパッケージ"
 }
