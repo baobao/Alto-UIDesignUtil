@@ -1,23 +1,16 @@
-# Alto-tascal-Unity-Lib
+# Alto-UIDesignUtil
 
 ※本リポジトリは[本家](https://github.com/tatsuya-koyama/Alto-tascal-Unity-Lib)からUI Design Utilのみ切り出したアセットです。
 
-____
 
-- [Tatsuya Koyama](https://twitter.com/tatsuya_koyama) が趣味のゲーム開発をする際に書いたコードをまとめたものです
-- 趣味のコードでありサポートなどはできませんが、誰かに実装を紹介する際のリファレンスコード的に置いておきます
+## 画像編集ソフトによくある整列ツールのUnityエディタ拡張版
 
-### デモ動画
+<img width="345" height="501" alt="Image" src="https://github.com/user-attachments/assets/dca77f1c-eda8-4ce3-abe7-dbb4c3cf357d" />
 
-https://youtu.be/GimRchE1N68
 
-[![](https://img.youtube.com/vi/GimRchE1N68/0.jpg)](https://www.youtube.com/watch?v=GimRchE1N68)
+`Tools -> Alto -> UI Design Util` から開いてください。
 
-（動画は 2023-02 頃のバージョンのものです）
-
-- URP 17 系（Unity 6）で動作する独自シェーダなどが入っています
-- あとはシーンのリソース管理やメッセージングなどを扱うフレームワークや、FSM やオブジェクトプールなどの各種ライブラリ
-  - 趣味開発でのニーズに応じてちょっとずつ更新されていく見込み
+<img width="276" height="132" alt="Image" src="https://github.com/user-attachments/assets/bbd3fc4f-5836-416c-a7da-f697fe7b44f9" />
 
 
 ## 動作確認環境
@@ -26,10 +19,9 @@ https://youtu.be/GimRchE1N68
 
 開発は macOS 15.4.1 で行っています。
 
-
 ## 作者サイト
 
-- [Alto-tascal](https://tatsuya-koyama.com/)
+- [Alto-tascal](https://tatsuya-koyama.com/) ※本家
 
 ## LICENSE
 
