@@ -12,6 +12,16 @@
 
 <img width="276" height="132" alt="Image" src="https://github.com/user-attachments/assets/bbd3fc4f-5836-416c-a7da-f697fe7b44f9" />
 
+## インストール方法
+
+Package Manager -> `Install package from git URL...` から以下を入力してください。
+
+```
+https://github.com/baobao/Alto-UIDesignUtil.git?path=Assets/00_Altotascal
+```
+
+<img width="744" height="164" alt="Image" src="https://github.com/user-attachments/assets/87841218-854f-4d5c-b42a-d002fa368dd5" />
+
 
 ## 動作確認環境
 
